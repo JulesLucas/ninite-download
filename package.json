@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulesLucas/ninite-download.git"
+  },
   "keywords": [
     "Ninite API",
     "Ninite Download",
@@ -14,6 +17,10 @@
   ],
   "author": "Jules Lucas",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulesLucas/ninite-download/issues"
+  },
+  "homepage": "https://github.com/JulesLucas/ninite-download#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "puppeteer": "^9.0.0",
